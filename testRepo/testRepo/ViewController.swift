@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
 //changed
     
-    
+    //i can do this from xcode
     //fdgfdgnfdng
 }
 
